@@ -77,7 +77,7 @@ left: 0;
     align-items: center;
     height: 10vh;
 width: none;
-  z-index:+1;
+  z-index:+100;
   }
 
 nav .fa-bars{
